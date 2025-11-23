@@ -70,7 +70,7 @@ When the program closes, updated data is saved back.
 ## 🖥️ How to Compile and Run
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/care
+git clone https://github.com/langa98/care
 
 ### 2. Open in your preferred C++ IDE
 Supported: Visual Studio, Code::Blocks, Dev-C++, MinGW (g++).
