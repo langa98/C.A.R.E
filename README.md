@@ -1,4 +1,4 @@
-# CRISES AID RESOURCE ENGINE (C.A.R.E.)
+# CRISIS AID RESOURCE ENGINE (C.A.R.E.)
 
 A C++ console-based crisis management system for handling supplies, shipments, shelter data, aid requests, and emergency logistics.
 
