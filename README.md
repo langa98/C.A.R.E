@@ -3,7 +3,7 @@
 A C++ console-based crisis management system for handling supplies, shipments, shelter data, aid requests, and emergency logistics.
 
 ## 📌 Overview
-The CRISES AID RESOURCE ENGINE (C.A.R.E.) is designed to simulate how crisis-response organizations manage inventory, requests, distribution, and field operations. It demonstrates:  
+The CRISIS AID RESOURCE ENGINE (C.A.R.E.) is designed to simulate how crisis-response organizations manage inventory, requests, distribution, and field operations. It demonstrates:  
 - File handling  
 - Object-oriented programming  
 - Recursion  
