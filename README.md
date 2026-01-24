@@ -97,4 +97,6 @@ README.md
 Pull requests are welcome. You may fork the repository and add improvements such as UI, optimizations, or new modules.
 
 ## 📜 License
-This project is released under the MIT License.
+```
+This project is provided for educational and personal use. No warranty is expressed or implied
+```
